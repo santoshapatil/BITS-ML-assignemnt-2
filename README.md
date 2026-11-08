@@ -1,6 +1,6 @@
 # Credit Card Default Prediction — ML Assignment 2
 
-Live app: `<STREAMLIT_APP_URL>`  ·  Repository: https://github.com/santoshapatil/BITS-ML-assignemnt-2
+Live app: https://bits-ml-assignemnt-2-nqp3zfg6kzf6ivdvxlxzyw.streamlit.app/  ·  Repository: https://github.com/santoshapatil/BITS-ML-assignemnt-2
 
 ## a. Problem statement
 
